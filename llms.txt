@@ -1,0 +1,28 @@
+# aswritten.ai
+
+> aswritten turns an organization's recorded conversations into a perspective:
+> an individually owned, versioned knowledge graph of who said what and what
+> they made of it, installable into any MCP-capable AI. Answers come back
+> cited to the person, date, and conversation they came from.
+
+The fastest way for an AI to understand aswritten is to load aswritten's own
+public perspective — the company runs on its product and publishes the
+projection. MCP endpoint: https://api.aswritten.ai/mcp — then call
+aswritten_perspective with id "customer-architecture-demo-enterprise-c1cb".
+
+## Docs
+- [Home / Start here](https://docs.aswritten.ai/): what it is, entry points by role
+- [Quick start](https://docs.aswritten.ai/quick-start): setup, first memory, teammates, troubleshooting
+- [Asking the perspective well](https://docs.aswritten.ai/asking-the-perspective-well): getting good answers
+- [Product manual](https://docs.aswritten.ai/product-manual): concepts and tool reference
+- [Protocol](https://docs.aswritten.ai/protocol): the full aswritten protocol an AI session follows
+- [Pricing](https://docs.aswritten.ai/pricing)
+
+## The public perspective
+- [Navigator](https://aswritten-ai.github.io/perspective/): browsable digest of aswritten's own knowledge graph
+- [Navigator llms.txt](https://aswritten-ai.github.io/perspective/llms.txt): machine index of every area
+
+## Writing
+- [aswritten.ai](https://aswritten.ai): essays, case studies, architecture posts — every substantive claim cited to the graph
+- [Technical white paper](https://aswritten.ai/technical-white-paper/): the full architecture
+- [Anatomy of aswritten](https://aswritten.ai/anatomy-of-aswritten/): the plain-language version
